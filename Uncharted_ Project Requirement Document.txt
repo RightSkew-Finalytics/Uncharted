@@ -1,0 +1,40 @@
+﻿Uncharted - A Pre Market Analysis Tool
+Project Objective
+
+
+The objective of this project is to develop a pre-market analysis tool for intraday cash segment traders, which will help them identify stocks with great momentum for the next trading session. The tool will use central pivot range (CPR) to identify the potential big-moving stocks and also provide insights into which sector is likely to have the greatest impact.
+
+
+Problem Statement
+
+
+As a new trader, it can be challenging to identify stocks with good momentum for intraday trading. This project aims to solve this problem by developing a pre-market analysis tool that can provide traders with real-time insights into the potential big movers for the next trading session.
+
+
+Functional Requirements
+
+
+* The tool must be able to analyze market data in real-time.
+* The tool must use central pivot range (CPR) to identify potential big-moving stocks.
+* The tool must provide insights into which sector is likely to have the greatest impact.
+* The tool must provide drill-down analysis of the stocks in the identified sector.
+* The tool must be user-friendly and easy to navigate.
+Non-functional Requirements
+
+
+* The tool must be reliable and provide accurate insights.
+* The tool must be able to handle a large volume of data without slowing down.
+* The tool must have a high level of security to protect user data.
+* The tool must have a user-friendly interface that is easy to use and understand.
+* The tool must be compatible with different devices and operating systems.
+Assumptions and Constraints
+
+
+* The tool will use market data from authorized sources.
+* The tool will be developed using the agile methodology.
+* The tool will be developed using the programming language preferred by the development team.
+* The tool will have a timeline of 6 weeks for development and testing.
+Conclusion
+
+
+The Uncharted pre-market analysis tool will provide intraday cash segment traders with real-time insights into potential big-moving stocks for the next trading session, helping them make informed trading decisions. The tool will also provide insights into which sector is likely to have the greatest impact, and drill-down analysis of the stocks in the sector. The tool will be reliable, user-friendly, and easy to navigate, and will be developed using the agile methodology. The development team will use the preferred programming language and complete the project within the timeline of 6 weeks.
